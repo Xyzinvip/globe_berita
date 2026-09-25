@@ -1,0 +1,10 @@
+{
+	"appId": "id.globeberita.app",
+	"appName": "Globe Berita",
+	"webDir": "public",
+	"plugins": {
+		"CapacitorHttp": {
+			"enabled": true
+		}
+	}
+}
